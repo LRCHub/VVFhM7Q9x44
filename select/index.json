@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Brown Eyes",
+  "base_artist": "デスティニーズ・チャイルド",
+  "createdAt": "2025-12-02T09:21:55.374072Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brown Eyes Baby",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/01_Brown_Eyes_Baby_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brown Eyes Baby",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/02_Brown_Eyes_Baby_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't It Make My Brown Eyes Blue",
+      "artist": "Crystal Gayle",
+      "has_synced": true,
+      "path": "select/03_Don't_It_Make_My_Brown_Eyes_Blue_Crystal_Gayle.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brown Eyes",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/04_Brown_Eyes_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Pair Of Brown Eyes",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/05_A_Pair_Of_Brown_Eyes_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Pair Of Brown Eyes",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/06_A_Pair_Of_Brown_Eyes_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Pair Of Brown Eyes - Live At Glasgow Barrowlands",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/07_A_Pair_Of_Brown_Eyes_-_Live_At_Glasgow_Barrowlands_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Pair of Brown Eyes (live)",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/08_A_Pair_of_Brown_Eyes_(live)_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Brown Eyes",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/09_Brown_Eyes_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Brown Eyes",
+      "artist": "LIONLION",
+      "has_synced": false,
+      "path": "select/10_Brown_Eyes_LIONLION.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Brown Eyes",
+      "artist": "Red House Painters",
+      "has_synced": true,
+      "path": "select/11_Brown_Eyes_Red_House_Painters.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Brown Eyes (Demo)",
+      "artist": "Red House Painters",
+      "has_synced": false,
+      "path": "select/12_Brown_Eyes_(Demo)_Red_House_Painters.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Brown Eyes (1992 4-Track Demo)",
+      "artist": "Red House Painters",
+      "has_synced": false,
+      "path": "select/13_Brown_Eyes_(1992_4-Track_Demo)_Red_House_Painters.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Brown Eyes",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/14_Brown_Eyes_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Brown Eyes",
+      "artist": "Destiny's Child",
+      "has_synced": true,
+      "path": "select/15_Brown_Eyes_Destiny's_Child.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Brown Eyes",
+      "artist": "Destiny's Child",
+      "has_synced": true,
+      "path": "select/16_Brown_Eyes_Destiny's_Child.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brown Eyes",
+      "artist": "Destiny's Child",
+      "has_synced": false,
+      "path": "select/pl_01_Brown_Eyes_Destiny's_Child.txt"
+    }
+  ]
+}
